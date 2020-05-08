@@ -1,0 +1,46 @@
+.cta-container {
+    border-width: 7px;
+    border-bottom: 7px solid #f5933a;
+  }
+  
+  .cta-container a {
+    text-decoration: underline;
+  }
+  
+  /* Colors */
+  
+  .bg-blue {
+    background-color: #1c3e95;
+  }
+  
+  .bg-medium-blue {
+    background-color: #2c3379;
+  }
+  
+  .bg-dark-blue {
+    background-color: #26265c;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  /* Media Queries */
+  
+  @media (min-width: 0) {
+    .h-xs-200p {
+      height: 200px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .w-xl-300p {
+      width: 300px;
+    }
+  }
+  
+  @media (min-width: 0) {
+    .w-xs-150p {
+      width: 150px;
+    }
+  }  
